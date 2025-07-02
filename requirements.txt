@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+pysr
+statsmodels
+matplotlib
+seaborn
+openpyxl  # for reading Excel files
